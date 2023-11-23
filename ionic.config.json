@@ -1,0 +1,7 @@
+{
+  "name": "PinkSky_IonicAngularBoostrap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
